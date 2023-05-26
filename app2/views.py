@@ -5,7 +5,7 @@ from django.http import HttpResponse
 
 
 def yash(request):
-    return HttpResponse('<h1>yash is an pan India star</h1>')
+    return HttpResponse('<h1>yash is a pan India star</h1>')
 
-def kicha(request):
-    return HttpResponse('<h1>kicha is a best actor</h1>')
+def kiccha(request):
+    return HttpResponse('<h1>kiccha is a best actor</h1>')

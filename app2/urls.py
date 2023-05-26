@@ -7,7 +7,7 @@ app_name='anything'
 
 urlpatterns=[
     path('yash/',yash, name='yash'),
-    path('kicha/',kicha, name='kicha'),
+    path('kiccha/',kiccha, name='kiccha'),
 
 
 
